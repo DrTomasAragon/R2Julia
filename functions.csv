@@ -263,7 +263,7 @@ file.remove,,I/O,Files and Directories,,
 path.rename,,I/O,Files and Directories,,
 dir.create,,I/O,Files and Directories,,
 file.exists,,I/O,Files and Directories,,
-tempdir,,I/O,Files and Directories
+tempdir,,I/O,Files and Directories,,
 tempfile,,I/O,Files and Directories,,
 download.file,,I/O,Files and Directories,,
 ISOdate,,Special Data,Date / Time,,
